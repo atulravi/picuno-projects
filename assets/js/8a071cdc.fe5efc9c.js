@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpic_uno_projects=self.webpackChunkpic_uno_projects||[]).push([[7762],{202:e=>{e.exports=JSON.parse('{"permalink":"/PicUNO-projects/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
