@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpic_uno_projects=self.webpackChunkpic_uno_projects||[]).push([[5080],{9346:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/picuno-projects/blog/tags/docusaurus","allTagsPath":"/picuno-projects/blog/tags","count":4,"unlisted":false}')}}]);
