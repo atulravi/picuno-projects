@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpic_uno_projects=self.webpackChunkpic_uno_projects||[]).push([[5626],{9293:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/PicUNO-projects/blog/tags/hola","allTagsPath":"/PicUNO-projects/blog/tags","count":1,"unlisted":false}')}}]);
